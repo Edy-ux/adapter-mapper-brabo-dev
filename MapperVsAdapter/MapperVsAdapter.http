@@ -1,0 +1,6 @@
+@MapperVsAdapter_HostAddress = http://localhost:5163
+
+GET {{MapperVsAdapter_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
