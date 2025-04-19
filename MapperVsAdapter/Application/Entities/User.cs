@@ -7,7 +7,7 @@
         public DateTimeOffset CreatedAt { get; set; }
         public string Name { get; set; }
         public int Age { get; set; }
-        public DateTimeOffset DateBirthDay { get; set; }
+        public  DateTimeOffset DateBirthDay { get; set; }
         public string Gender { get; set; }
         public string NameFather { get; set; }
         public string NameMother { get; set; }

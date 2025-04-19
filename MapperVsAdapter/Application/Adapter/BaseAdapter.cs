@@ -25,7 +25,7 @@
 
             return entity;
         }
-
+ 
         public TEntity Map(TModel model)
         {
             var entity = (TEntity)Activator.CreateInstance(typeof(TEntity));
